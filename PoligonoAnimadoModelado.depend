@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1662775513 source:a:\principal\documentos\code projects\codeblocks\poligonoanimadomodelado\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<math.h>
+	<cmath>
+
+1426374928 a:\principal\documentos\code projects\codeblocks\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426374928 a:\principal\documentos\code projects\codeblocks\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
